@@ -19,7 +19,7 @@ Data flows from:
 
 Two separate approaches are demonstrated:
 
-1. **Dynamic Taskflow Triggering using CDI**
+1. [Dynamic Taskflow Triggering using CDI](https://github.com/Tomjo-Davis/My_Projects/tree/main/Taskflow%20Trigger/CDI)
 2. **Dynamic Taskflow Triggering using CAI**
 ---
 
