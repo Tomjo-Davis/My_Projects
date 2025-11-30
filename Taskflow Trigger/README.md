@@ -159,17 +159,5 @@ Used to trigger Taskflow dynamically via endpoint.
 
 ---
 
-# 3. JMS Queue Integration Using CAI
 
-The POC also demonstrates:
-
-- Using **CAI Service Connectors** and **Process Objects**  
-- Publishing messages to **JMS Queues**  
-- Integrating on-prem or cloud JMS workloads with Informatica Cloud  
-
-This provides a decoupled and event-driven pattern often required in enterprise applications.
-
----
-
-## 📁 Repository Structure (Suggested)
 
